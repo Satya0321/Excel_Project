@@ -7,10 +7,22 @@ Mitron Bank Interactive Dashboard for Customer Segmentation & Spending Insights
 This project aims to provide detailed insights into Mitron Bank’s customer demographics, spending behaviors, and financial preferences using data-driven analysis. The dashboard helps the bank identify key customer segments, analyze their income utilization, and propose targeted features for a new credit card offering. By leveraging Excel pivot tables, charts, and slicers, the project creates an interactive and dynamic dashboard for decision-making.
 
 ## Data Sources:
+#### Datasets:
 The dataset contains customer data with the following fields:
 * Demographics:  Customer ID, Age Group, City, Occupation, Gender, Marital Status, Average Income.
-[CLICK HERE FOR DATA] (
+
+[CLICK HERE FOR DATA] (https://github.com/Satya0321/Excel_Project/blob/main/dim_customers.csv)
 * Transaction Data:   Month, Category, Payment Type, Spend.
+
+[CLICK HERE FOR DATA] (https://github.com/Satya0321/Excel_Project/blob/main/fact_spends.csv)
+
+#### Live Dashboard:
+This contains the full project and the live interactive dashboard:
+
+[CLICK HERE FOR DASHBOARD] (https://github.com/Satya0321/Excel_Project/blob/main/Excel_Project.xlsx) 
+
+#### Dashboard Image: 
+
 
 ## Key Insights Generated:
 #### 1. Spending Behavior by Occupation:
