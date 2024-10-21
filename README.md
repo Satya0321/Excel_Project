@@ -1,6 +1,4 @@
 # Excel_Project
-
-## Project Title:
 Mitron Bank Interactive Dashboard for Customer Segmentation & Spending Insights
 
 ## Project Overview:
