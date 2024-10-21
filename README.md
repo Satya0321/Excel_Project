@@ -22,7 +22,7 @@ This contains the full project and the live interactive dashboard:
 [CLICK HERE FOR DASHBOARD] (https://github.com/Satya0321/Excel_Project/blob/main/Excel_Project.xlsx) 
 
 #### Dashboard Image: 
-
+![mitron ](https://github.com/user-attachments/assets/5632ee1c-6c7a-445f-b2a6-4ab138781016)
 
 ## Key Insights Generated:
 #### 1. Spending Behavior by Occupation:
