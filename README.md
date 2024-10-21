@@ -11,15 +11,15 @@ This project aims to provide detailed insights into Mitron Bank’s customer dem
 The dataset contains customer data with the following fields:
 * Demographics:  Customer ID, Age Group, City, Occupation, Gender, Marital Status, Average Income.
 
-[CLICK HERE FOR DATA] (https://github.com/Satya0321/Excel_Project/blob/main/dim_customers.csv)
+[CLICK HERE FOR DATA](https://github.com/Satya0321/Excel_Project/blob/main/dim_customers.csv)
 * Transaction Data:   Month, Category, Payment Type, Spend.
 
-[CLICK HERE FOR DATA] (https://github.com/Satya0321/Excel_Project/blob/main/fact_spends.csv)
+[CLICK HERE FOR DATA](https://github.com/Satya0321/Excel_Project/blob/main/fact_spends.csv)
 
 #### Live Dashboard:
 This contains the full project and the live interactive dashboard:
 
-[CLICK HERE FOR DASHBOARD] (https://github.com/Satya0321/Excel_Project/blob/main/Excel_Project.xlsx) 
+[CLICK HERE FOR DASHBOARD](https://github.com/Satya0321/Excel_Project/blob/main/Excel_Project.xlsx) 
 
 #### Dashboard Image: 
 ![mitron ](https://github.com/user-attachments/assets/5632ee1c-6c7a-445f-b2a6-4ab138781016)
