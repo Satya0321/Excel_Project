@@ -116,3 +116,8 @@ These insights can guide the design of a successful credit card tailored to cust
 ## Conclusion:
 This dashboard project enables Mitron Bank to gain actionable insights into its customer base and create tailored financial products. The use of Excel’s dynamic features, such as slicers and pivot tables, allows stakeholders to explore and filter data effortlessly, making the decision-making process more efficient.
 
+## Other links:
+This project is taken from Codebasis resume projects. These are real-world and unguided projects.
+
+For more details check on their wedsite: [click here for website](https://codebasics.io/)
+
